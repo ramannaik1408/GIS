@@ -1,0 +1,69 @@
+﻿National Center for Education Statistics,,,,,
+Indirect estimate of percent lacking Basic prose literacy skills and corresponding credible intervals in all counties: California 2003,,,,,
+,,,,,
+Location,FIPS code0,Population size1,Percent lacking basic,95% credible interval3,
+,,,prose literacy skills2,Lower bound,Upper bound
+California,06000,"26,029,840",23,20.3,26.2
+Alameda County,06001,"1,100,269",19,11.9,28.3
+Alpine County,06003,983,8,3.8,15.2
+Amador County,06005,"27,145",10,4.7,17.2
+Butte County,06007,"162,597",11,5.3,19.8
+Calaveras County,06009,"36,110",9,4.2,15.5
+Colusa County,06011,"14,057",34,19.5,50.7
+Contra Costa County,06013,"751,262",12,7.1,20.3
+Del Norte County,06015,"19,085",15,7.2,25.2
+El Dorado County,06017,"131,630",7,3.4,13.1
+Fresno County,06019,"596,940",27,15.0,42.2
+Glenn County,06021,"19,784",22,11.7,35.6
+Humboldt County,06023,"99,036",9,4.3,17.4
+Imperial County,06025,"99,636",41,25.2,59.5
+Inyo County,06027,"14,515",12,6.1,21.5
+Kern County,06029,"489,448",24,13.2,38.3
+Kings County,06031,"86,612",26,14.2,41.3
+Lake County,06033,"49,207",13,6.3,22.7
+Lassen County,06035,"20,539",12,6.0,21.1
+Los Angeles County,06037,"7,206,479",33,27.8,40.8
+Madera County,06039,"92,226",29,16.0,44.5
+Marin County,06041,"190,711",7,3.4,13.7
+Mariposa County,06043,"13,433",9,4.1,15.7
+Mendocino County,06045,"67,543",13,6.4,22.3
+Merced County,06047,"159,877",24,15.7,35.5
+Modoc County,06049,"7,225",13,6.2,22.1
+Mono County,06051,"9,952",11,5.4,19.7
+Monterey County,06053,"290,407",28,15.7,43.6
+Napa County,06055,"99,044",14,7.4,24.5
+Nevada County,06057,"77,460",7,3.3,12.8
+Orange County,06059,"2,191,819",26,19.1,35.6
+Placer County,06061,"226,368",7,3.1,12.5
+Plumas County,06063,"17,215",8,3.8,15.1
+Riverside County,06065,"1,280,162",20,14.3,28.2
+Sacramento County,06067,"975,882",13,7.9,20.4
+San Benito County,06069,"39,736",19,9.3,31.3
+San Bernardino County,06071,"1,296,585",20,10.6,33.2
+San Diego County,06073,"2,144,799",21,15.2,29.8
+San Francisco County,06075,"629,606",18,8.9,31.1
+San Joaquin County,06077,"444,038",23,12.2,36.4
+San Luis Obispo County,06079,"193,050",10,4.9,18.0
+San Mateo County,06081,"539,763",15,7.5,26.7
+Santa Barbara County,06083,"298,172",18,9.2,29.6
+Santa Clara County,06085,"1,263,883",16,9.9,26.0
+Santa Cruz County,06087,"191,051",13,6.5,22.6
+Shasta County,06089,"134,618",10,4.5,17.2
+Sierra County,06091,"2,880",9,4.3,16.8
+Siskiyou County,06093,"35,381",10,4.9,18.7
+Solano County,06095,"294,294",14,7.4,24.3
+Sonoma County,06097,"356,726",11,5.7,19.7
+Stanislaus County,06099,"350,543",21,11.5,34.8
+Sutter County,06101,"62,277",19,10.0,31.8
+Tehama County,06103,"44,366",15,9.4,22.8
+Trinity County,06105,"10,838",10,4.6,17.8
+Tulare County,06107,"269,929",32,18.0,48.0
+Tuolumne County,06109,"42,836",9,4.5,16.5
+Ventura County,06111,"580,222",16,8.2,26.9
+Yolo County,06113,"134,677",16,7.9,27.0
+Yuba County,06115,"44,910",18,9.5,30.9
+"* The state and county Federal Information processing Standards (FIPS) codes are standardized unique state and county identifiers. The first two positions identify the state, and the last three positions identify the county. For more information, see http://www.census.gov/geo/www/fips/fips.html",,,,,
+1 Estimated population size of persons 16 years and older in households in 2003.,,,,,
+2 Those lacking Basic prose literacy skills include those who scored Below Basic in prose and those who could not be tested due to language barriers.,,,,,
+3 The estimated percent lacking Basic prose literacy skills has a margin of error as measured by the associated credible interval. There is a 95% chance that the value of the percent lacking Basic prose literacy skills is contained between the lower and upper bound.,,,,,
+"SOURCE: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, 2003 National Assessment of Adult Literacy",,,,,
